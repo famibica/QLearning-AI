@@ -1,0 +1,13 @@
+L=5
+C=7
+D=-0.09
+. . . . . . .
+. . . . . . .
+. . X . X . .
+. . X . . . .
+. . . . X X .
+D D D D -5.0 D D
+D D D D D D D
+D D X D X D +7.0
+-2.0 D X D D D D
+D D D D X X D
