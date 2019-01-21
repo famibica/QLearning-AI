@@ -1,0 +1,12 @@
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\bin\Debug\QLearningTrabalho.exe.config
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\bin\Debug\QLearningTrabalho.exe
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\bin\Debug\QLearningTrabalho.pdb
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.csprojResolveAssemblyReference.cache
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.Properties.Resources.resources
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.csproj.GenerateResource.Cache
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.exe
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.pdb
+c:\users\matheusbica\documents\visual studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.Board.resources
+C:\Users\matheusbica\Documents\Visual Studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.ExibeResultados.resources
+C:\Users\matheusbica\Documents\Visual Studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.ExibeSetas.resources
+C:\Users\matheusbica\Documents\Visual Studio 2013\Projects\QLearningTrabalho\QLearningTrabalho\obj\Debug\QLearningTrabalho.NumeroPassos.resources
